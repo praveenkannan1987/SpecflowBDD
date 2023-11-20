@@ -1,0 +1,8 @@
+{
+    "isHeadless": false,
+    "screenShotEveryStep": false,
+    "url": "https://www.google.com",
+    "database": "",
+    "browserType": "chrome",
+    "RestURL": "https://reqres.in/"
+}
